@@ -1,0 +1,7 @@
+replicate
+pymongo
+pypdf2
+groq
+google-generativeai
+pillow
+rembg
